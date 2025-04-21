@@ -1,0 +1,33 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment folder
+venv/
+env/
+ENV/
+.venv/
+
+# IDE files
+.idea/
+.vscode/
+
+# Qiskit specific files
+*.circuit
+*.qasm
+*.png
+*.svg
+*.pdf
+*.eps
+
+# Temporary or system files
+*.log
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
